@@ -11,8 +11,8 @@ sites:
     url: https://jira.move-elevator.de
   - name: VPN OB
     check: "tcp-ping"
-    url: 89.27.147.2
-    port: 500
+    url: 89.27.147.5
+    port: 443
   - name: VPN DD
     check: "tcp-ping"
     url: 212.202.128.19
