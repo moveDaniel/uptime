@@ -26,19 +26,19 @@
     "url": "https://move-elevator.atlassian.net/",
     "icon": "https://icons.duckduckgo.com/ip3/move-elevator.atlassian.net.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 370,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 445,
+    "timeDay": 393,
     "timeWeek": 445,
     "timeMonth": 443,
-    "timeYear": 446,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2024-02-03": 0
+      "2024-02-03": 12
     }
   },
   {
@@ -70,7 +70,7 @@
     "uptime": "91.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.70%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "91.13%",
     "time": 120,
     "timeDay": 89,
