@@ -1,7 +1,7 @@
 url: https://jira.move-elevator.de
-status: down
-code: 401
-responseTime: 674
-lastUpdated: 2024-03-17T23:02:12.169Z
+status: up
+code: 200
+responseTime: 1175
+lastUpdated: 2024-03-18T06:55:02.504Z
 startTime: 2024-01-02T07:30:57.707Z
 generator: Upptime <https://github.com/upptime/upptime>
