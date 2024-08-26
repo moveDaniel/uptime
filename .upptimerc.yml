@@ -8,7 +8,7 @@ sites:
   - name: Wiki
     url: https://move-elevator.atlassian.net/
   - name: Jira
-    url: https://jira.move-elevator.de
+    url: https://$JIRA_USERNAME:$JIRA_PASSWORD@jira.move-elevator.de
   - name: VPN OB
     check: "tcp-ping"
     url: 89.27.147.5
