@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.86%",
     "time": 1014,
-    "timeDay": 1207,
-    "timeWeek": 999,
-    "timeMonth": 1285,
+    "timeDay": 1008,
+    "timeWeek": 1022,
+    "timeMonth": 1293,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2024-12-04": 28,
@@ -37,8 +37,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 456,
-    "timeDay": 535,
-    "timeWeek": 541,
+    "timeDay": 515,
+    "timeWeek": 546,
     "timeMonth": 518,
     "timeYear": 456,
     "dailyMinutesDown": {
@@ -52,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.move-elevator.de.ico",
     "slug": "jira",
     "status": "up",
-    "uptime": "72.94%",
+    "uptime": "73.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "72.94%",
-    "time": 885,
-    "timeDay": 1202,
-    "timeWeek": 967,
-    "timeMonth": 943,
-    "timeYear": 885,
+    "uptimeYear": "73.02%",
+    "time": 886,
+    "timeDay": 1024,
+    "timeWeek": 987,
+    "timeMonth": 951,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2024-12-08": 116,
       "2024-12-07": 28,
@@ -187,18 +187,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-ob",
     "status": "down",
-    "uptime": "68.71%",
+    "uptime": "68.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.71%",
+    "uptimeYear": "68.52%",
     "time": 111,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-12-31": 39,
+      "2025-01-01": 43,
+      "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -336,8 +337,7 @@
       "2024-01-22": 143,
       "2024-01-12": 568,
       "2024-01-11": 692,
-      "2024-01-03": 1316,
-      "2024-01-02": 988
+      "2024-01-03": 1316
     }
   },
   {
@@ -352,9 +352,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.57%",
     "time": 126,
-    "timeDay": 173,
-    "timeWeek": 130,
-    "timeMonth": 126,
+    "timeDay": 124,
+    "timeWeek": 133,
+    "timeMonth": 127,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2024-12-08": 117,
@@ -362,8 +362,7 @@
       "2024-05-08": 136,
       "2024-02-11": 169,
       "2024-02-04": 12,
-      "2024-01-03": 800,
-      "2024-01-02": 986
+      "2024-01-03": 800
     }
   }
 ]
