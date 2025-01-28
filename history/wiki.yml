@@ -1,7 +1,7 @@
 url: https://move-elevator.atlassian.net/
-status: up
-code: 200
-responseTime: 484
-lastUpdated: 2025-01-28T08:21:00.046Z
+status: down
+code: 405
+responseTime: 418
+lastUpdated: 2025-01-28T09:42:45.192Z
 startTime: 2024-01-02T07:30:56.785Z
 generator: Upptime <https://github.com/upptime/upptime>
