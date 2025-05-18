@@ -1,7 +1,7 @@
 url: https://$JIRA_USERNAME:$JIRA_PASSWORD@jira.move-elevator.de
 status: up
 code: 200
-responseTime: 958
-lastUpdated: 2025-05-17T23:07:23.884Z
+responseTime: 842
+lastUpdated: 2025-05-18T23:07:25.490Z
 startTime: 2024-01-02T07:30:57.707Z
 generator: Upptime <https://github.com/upptime/upptime>
