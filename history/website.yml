@@ -1,7 +1,7 @@
 url: https://www.move-elevator.de
-status: down
-code: 503
-responseTime: 22499
-lastUpdated: 2025-07-30T11:22:25.899Z
+status: up
+code: 200
+responseTime: 1229
+lastUpdated: 2025-07-30T11:39:43.392Z
 startTime: 2024-01-02T07:30:55.126Z
 generator: Upptime <https://github.com/upptime/upptime>
