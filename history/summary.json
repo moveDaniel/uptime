@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
-    "time": 1211,
-    "timeDay": 1106,
-    "timeWeek": 1218,
-    "timeMonth": 1627,
-    "timeYear": 1288,
+    "time": 1213,
+    "timeDay": 1723,
+    "timeWeek": 1252,
+    "timeMonth": 1632,
+    "timeYear": 1289,
     "dailyMinutesDown": {
       "2025-11-10": 18,
       "2025-10-23": 31,
@@ -23,8 +23,7 @@
       "2025-03-13": 17,
       "2025-01-16": 68,
       "2024-12-04": 28,
-      "2024-12-03": 16,
-      "2024-11-13": 19
+      "2024-12-03": 16
     }
   },
   {
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.83%",
-    "time": 667,
-    "timeDay": 674,
-    "timeWeek": 832,
+    "time": 668,
+    "timeDay": 1018,
+    "timeWeek": 847,
     "timeMonth": 917,
-    "timeYear": 715,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2025-10-29": 24,
       "2025-10-15": 120,
@@ -77,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.move-elevator.de.ico",
     "slug": "jira",
     "status": "up",
-    "uptime": "85.13%",
+    "uptime": "85.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.74%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.24%",
-    "time": 1003,
-    "timeDay": 802,
-    "timeWeek": 874,
-    "timeMonth": 1022,
+    "time": 1004,
+    "timeDay": 1318,
+    "timeWeek": 921,
+    "timeMonth": 1012,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2025-11-02": 26,
@@ -122,14 +121,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-ob",
     "status": "up",
-    "uptime": "48.95%",
+    "uptime": "49.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "22.69%",
+    "uptimeYear": "22.96%",
     "time": 113,
-    "timeDay": 92,
-    "timeWeek": 107,
+    "timeDay": 155,
+    "timeWeek": 113,
     "timeMonth": 114,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -414,8 +413,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   }
 ]
