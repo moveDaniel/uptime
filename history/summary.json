@@ -10,11 +10,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.93%",
-    "time": 1237,
-    "timeDay": 1521,
-    "timeWeek": 1307,
-    "timeMonth": 1298,
-    "timeYear": 1301,
+    "time": 1239,
+    "timeDay": 2367,
+    "timeWeek": 1396,
+    "timeMonth": 1318,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2025-12-01": 21,
       "2025-11-30": 19,
@@ -24,8 +24,7 @@
       "2025-07-30": 17,
       "2025-03-17": 118,
       "2025-03-13": 17,
-      "2025-01-16": 68,
-      "2024-12-04": 28
+      "2025-01-16": 68
     }
   },
   {
@@ -39,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 703,
-    "timeDay": 1240,
-    "timeWeek": 1326,
-    "timeMonth": 1312,
-    "timeYear": 760,
+    "time": 704,
+    "timeDay": 1213,
+    "timeWeek": 1277,
+    "timeMonth": 1317,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-10-29": 24,
       "2025-10-15": 120,
@@ -78,16 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.move-elevator.de.ico",
     "slug": "jira",
     "status": "up",
-    "uptime": "85.55%",
+    "uptime": "85.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.19%",
-    "time": 1024,
-    "timeDay": 1118,
-    "timeWeek": 953,
-    "timeMonth": 1079,
-    "timeYear": 1066,
+    "time": 1025,
+    "timeDay": 1053,
+    "timeWeek": 961,
+    "timeMonth": 1077,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2025-11-24": 37,
       "2025-11-17": 160,
@@ -127,14 +126,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-ob",
     "status": "up",
-    "uptime": "50.48%",
+    "uptime": "50.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.44%",
+    "uptimeYear": "28.71%",
     "time": 121,
-    "timeDay": 129,
-    "timeWeek": 128,
+    "timeDay": 155,
+    "timeWeek": 129,
     "timeMonth": 152,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -398,8 +397,7 @@
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
-      "2024-12-05": 1440,
-      "2024-12-04": 1440
+      "2024-12-05": 1440
     }
   }
 ]
