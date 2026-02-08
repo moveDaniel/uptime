@@ -4,19 +4,20 @@
     "url": "https://www.move-elevator.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.move-elevator.de.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.92%",
-    "time": 1246,
-    "timeDay": 1214,
-    "timeWeek": 1419,
-    "timeMonth": 1448,
-    "timeYear": 1317,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.90%",
+    "time": 1247,
+    "timeDay": 1381,
+    "timeWeek": 1432,
+    "timeMonth": 1451,
+    "timeYear": 1318,
     "dailyMinutesDown": {
-      "2026-02-07": 0,
+      "2026-02-08": 69,
+      "2026-02-07": 16,
       "2026-02-01": 56,
       "2026-01-01": 15,
       "2025-12-29": 31,
@@ -69,8 +70,7 @@
       "2025-02-24": 29,
       "2025-02-19": 111,
       "2025-02-18": 20,
-      "2025-02-11": 21,
-      "2025-02-08": 26
+      "2025-02-11": 21
     }
   },
   {
@@ -130,7 +130,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.79%",
+    "uptimeYear": "46.80%",
     "time": 125,
     "timeDay": 103,
     "timeWeek": 124,
@@ -331,8 +331,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   }
 ]
