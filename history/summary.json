@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.76%",
+    "uptimeWeek": "97.79%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.86%",
     "time": 1264,
-    "timeDay": 1257,
-    "timeWeek": 1747,
-    "timeMonth": 1482,
+    "timeDay": 1209,
+    "timeWeek": 1756,
+    "timeMonth": 1478,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2026-02-13": 223,
@@ -46,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 817,
-    "timeDay": 1208,
-    "timeWeek": 1150,
-    "timeMonth": 1386,
+    "timeDay": 774,
+    "timeWeek": 1143,
+    "timeMonth": 1353,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2025-10-29": 24,
@@ -79,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.move-elevator.de.ico",
     "slug": "jira",
     "status": "up",
-    "uptime": "86.92%",
+    "uptime": "86.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 1038,
-    "timeDay": 992,
+    "timeDay": 581,
     "timeWeek": 829,
-    "timeMonth": 944,
+    "timeMonth": 926,
     "timeYear": 1068,
     "dailyMinutesDown": {
       "2026-01-07": 85,
@@ -116,8 +116,7 @@
       "2025-04-04": 21,
       "2025-04-01": 60,
       "2025-03-31": 9,
-      "2025-02-22": 41,
-      "2025-02-16": 90
+      "2025-02-22": 41
     }
   },
   {
@@ -126,15 +125,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-ob",
     "status": "up",
-    "uptime": "55.21%",
+    "uptime": "55.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.72%",
+    "uptimeYear": "48.99%",
     "time": 124,
-    "timeDay": 110,
+    "timeDay": 93,
     "timeWeek": 112,
-    "timeMonth": 125,
+    "timeMonth": 123,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-11-01": 23,
@@ -323,8 +322,7 @@
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
-      "2025-02-17": 1440,
-      "2025-02-16": 1440
+      "2025-02-17": 1440
     }
   }
 ]
