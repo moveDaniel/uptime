@@ -10,11 +10,11 @@
     "uptimeWeek": "97.95%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "99.82%",
-    "time": 1269,
-    "timeDay": 1462,
-    "timeWeek": 1294,
-    "timeMonth": 1452,
-    "timeYear": 1340,
+    "time": 1270,
+    "timeDay": 1472,
+    "timeWeek": 1317,
+    "timeMonth": 1448,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2026-02-17": 156,
       "2026-02-16": 51,
@@ -47,11 +47,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 827,
-    "timeDay": 1800,
-    "timeWeek": 1422,
-    "timeMonth": 1374,
-    "timeYear": 910,
+    "time": 830,
+    "timeDay": 1771,
+    "timeWeek": 1502,
+    "timeMonth": 1377,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2025-10-29": 24,
       "2025-10-15": 120,
@@ -79,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.move-elevator.de.ico",
     "slug": "jira",
     "status": "up",
-    "uptime": "87.02%",
+    "uptime": "87.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
-    "time": 1037,
-    "timeDay": 1010,
-    "timeWeek": 864,
-    "timeMonth": 913,
-    "timeYear": 1070,
+    "time": 1038,
+    "timeDay": 1279,
+    "timeWeek": 905,
+    "timeMonth": 920,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2026-01-07": 85,
       "2025-11-24": 37,
@@ -115,8 +115,7 @@
       "2025-04-21": 259,
       "2025-04-04": 21,
       "2025-04-01": 60,
-      "2025-03-31": 9,
-      "2025-02-22": 41
+      "2025-03-31": 9
     }
   },
   {
@@ -125,15 +124,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-ob",
     "status": "up",
-    "uptime": "55.55%",
+    "uptime": "55.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.36%",
+    "uptimeYear": "50.64%",
     "time": 124,
-    "timeDay": 137,
-    "timeWeek": 118,
-    "timeMonth": 122,
+    "timeDay": 128,
+    "timeWeek": 120,
+    "timeMonth": 121,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-11-01": 23,
@@ -316,8 +315,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   }
 ]
