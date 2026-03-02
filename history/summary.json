@@ -8,13 +8,13 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.82%",
     "time": 1277,
-    "timeDay": 850,
-    "timeWeek": 1251,
-    "timeMonth": 1455,
-    "timeYear": 1342,
+    "timeDay": 1341,
+    "timeWeek": 1222,
+    "timeMonth": 1433,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2026-02-25": 37,
       "2026-02-17": 156,
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 835,
-    "timeDay": 1267,
-    "timeWeek": 1286,
-    "timeMonth": 1345,
-    "timeYear": 947,
+    "time": 837,
+    "timeDay": 1608,
+    "timeWeek": 1351,
+    "timeMonth": 1357,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2025-10-29": 24,
       "2025-10-15": 120,
@@ -67,8 +67,7 @@
       "2025-03-10": 36,
       "2025-03-06": 18,
       "2025-03-05": 32,
-      "2025-03-04": 16,
-      "2025-03-02": 44
+      "2025-03-04": 16
     }
   },
   {
@@ -77,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.move-elevator.de.ico",
     "slug": "jira",
     "status": "up",
-    "uptime": "87.15%",
+    "uptime": "87.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 1040,
-    "timeDay": 662,
-    "timeWeek": 981,
-    "timeMonth": 918,
+    "timeDay": 768,
+    "timeWeek": 956,
+    "timeMonth": 908,
     "timeYear": 1031,
     "dailyMinutesDown": {
       "2026-01-07": 85,
@@ -122,15 +121,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-ob",
     "status": "up",
-    "uptime": "56.00%",
+    "uptime": "56.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.55%",
+    "uptimeYear": "52.83%",
     "time": 124,
-    "timeDay": 87,
-    "timeWeek": 122,
-    "timeMonth": 120,
+    "timeDay": 114,
+    "timeWeek": 117,
+    "timeMonth": 119,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-11-01": 23,
@@ -305,8 +304,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   }
 ]
