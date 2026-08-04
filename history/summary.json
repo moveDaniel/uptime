@@ -65,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.move-elevator.de.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "89.26%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
+    "uptime": "89.25%",
+    "uptimeDay": "88.36%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.29%",
     "time": 1036,
     "timeDay": 909,
     "timeWeek": 877,
@@ -92,7 +92,7 @@
       "2025-11-24": 37,
       "2026-01-07": 85,
       "2026-06-05": 194,
-      "2026-08-04": 0
+      "2026-08-04": 168
     }
   },
   {
@@ -100,12 +100,12 @@
     "url": "89.27.147.2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-ob",
-    "status": "up",
+    "status": "down",
     "uptime": "63.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.37%",
+    "uptimeYear": "95.41%",
     "time": 120,
     "timeDay": 145,
     "timeWeek": 117,
@@ -129,7 +129,8 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-11-01": 23
+      "2025-11-01": 23,
+      "2026-08-04": 0
     }
   }
 ]
